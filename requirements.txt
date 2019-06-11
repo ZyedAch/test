@@ -1,0 +1,21 @@
+###    Dependencies for test project            ###
+###                                             ###
+### To install, run:                            ###
+###      $ pip install -r requirements.txt      ###
+###                                             ###
+###################################################
+
+#ENV
+#Python 3.6.5
+
+
+#Packages
+
+pandas
+datetime
+scikit_learn
+
+# Documentation
+sphinx>=2.1.0
+m2r
+sphinx_rtd_theme
